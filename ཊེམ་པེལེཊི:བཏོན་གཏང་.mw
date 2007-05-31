@@ -1,4 +1,22 @@
-[[Image:Icono aviso borrar.png|80px|left]]
-'''This page is a candidate for speedy deletion!'''
+<div name="Deletion notice" class="boilerplate metadata" id="delete" style="background-color: #fee; margin: 0 1em; padding: 0 10px; border: 1px solid #aaa;">
+'''This {{{2|page}}} is a [[:Category:Candidates for speedy deletion|candidate for speedy deletion]][[Template:Delete|.]]'''
+As Reason was given: "''{{{1}}}''"
 
-If you disagree with its speedy deletion, please explain why on its talk page or at Wikipedia:Speedy deletions. If this page obviously does not meet the criteria for speedy deletion, or you intend to fix it, please remove this notice, but do not remove this notice from articles that you have created yourself.
+If you disagree with its speedy deletion, please explain why on this page.
+
+<!--
+
+If this page obviously does not meet the criteria for speedy deletion, or you intend to fix it, please remove this notice, but do not remove this notice from articles that you have created yourself.
+Make sure no other pages [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|link here]] and check the page's [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} history] before deleting.
+
+-->
+</div>
+<includeonly>[[Category:Candidates for speedy deletion]]</includeonly><noinclude>
+Using of this template:
+<nowiki>{{Delete|Spam}}</nowiki> gives ''Spam'' as reason.<br>
+<nowiki>{{Delete|Spam|category}}</nowiki> gives the same but the first sentence would be: ''This category is a candidate for speedy deletion.''
+
+'''Please don't forget to sign a request for deletion!'''
+
+[[de:Vorlage:Löschen]]
+</noinclude>
