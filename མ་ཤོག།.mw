@@ -1,0 +1,92 @@
+__NOTOC__ __NOEDITSECTION__
+{{ส่วนหัวของหน้าหลัก}}
+
+<!--เนื้อหา-->
+{| style="border-spacing:3px;margin:0px -3px"
+|class="MainPageBG" style="width: 61%; border: 1px solid #cef2e0; background-color: #f5fffa; vertical-align: top;  -moz-border-radius:7px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5fffa;  -moz-border-radius:10px"
+! style="background-color: #cef2e0; font-size: 125%; border: 1px solid #a3bfb1; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar green1.jpg]]</div> บทความคัดสรรเดือนนี้
+|-
+| style="; font-size: 100%" | {{บทความคัดสรร/{{LOCALMONTHNAME}} {{พศ}}}}
+|-
+! style="background-color: #cef2e0; font-size: 125%; border: 1px solid #a3bfb1; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar green1.jpg]]</div> รู้ไหมว่า&hellip;
+|-
+| style="; font-size: 100%" | {{รู้ไหมว่า}}
+|-
+|}
+<!-- คอลัมน์ขวา -->
+|class="MainPageBG" style="width: 44%; border: 1px solid #cedff2; background-color: #f5fffa; vertical-align: top;  -moz-border-radius:10px" |
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f5faff;  -moz-border-radius:10px"
+! style="background-color: #cedff2; font-size: 125%; border: 1px solid #a3b0b1; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar_blue.jpg]]</div> เรื่องจากข่าว
+|-
+|style="color:#000"|{{เรื่องจากข่าว}}
+|-
+! style="background-color: #cedff2; font-size: 125%; border: 1px solid #a3b0b1; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar_blue.jpg]]</div> วันนี้ในอดีต
+|- 
+|style="color:#000"|{{วิกิพีเดีย:วันนี้ในอดีต/{{LOCALDAY}}_{{LOCALMONTHNAME}}}}
+|-
+|}
+|}
+{| style="border-spacing:3px;margin:0px -3px"
+|class="MainPageBG" style="width: 100%; border: 1px solid #ddcef2; background-color: #faf5ff; vertical-align: top;  -moz-border-radius:10px" | 
+{|cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#faf5ff;color:#000"
+! style="background-color:#ddcef2; font-size: 125%; border: 1px solid #afa3bf; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar_purple2.jpg]]</div> สารานุกรม
+|-
+|style="color:#000"|{{หน้าหลัก-สารานุกรม}}
+|-
+|}
+|}
+{| id="mainpage_helper" width="100%" border="0" cellspacing="5" cellpadding="2" style="border-spacing:3px; margin:0px -3px; margin-top:0.8em;margin-bottom:0.8em;"
+|- 
+| id="mainpage_search_helper" width="61%" style="border:1px solid #CCF7CC;background:#EEFFEE;padding:0.3em; -moz-border-radius:8px"|
+{{หน้าหลัก-ค้นหา}}
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="mainpage_community_helper" width="39%" style="border:1px solid #DDDDF7;background:#F7F7FF;padding:0.3em; -moz-border-radius:8px"|
+{{หน้าหลัก-ความช่วยเหลือ}}
+|}
+{| style="border-spacing:3px;margin:0px -3px"
+|class="MainPageBG" style="width: 100%; border: 1px solid #dfdfdf; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{|cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#ffffff;color:#000"
+! style="background-color: #ffffff; font-size: 125%; border: 1px solid #dfdfdf; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar_white.jpg]]</div> ชุมชน
+|-
+|style="color:#000"|ร่วมพัฒนาวิกิพีเดียกับเราได้ โดย[[วิกิพีเดีย:เริ่มต้น|เริ่มที่นี่]] ศึกษา'''[[วิกิพีเดีย:การแก้ไขหน้า|วิธีแก้ไขหน้า]]''' จากนั้น ทดลองสร้างและแก้ไขได้ที่ '''[[วิกิพีเดีย:ทดลองเขียน|หน้าทดลองเขียน]]''' มีงานน่าสนใจมากมายที่ '''[[วิกิพีเดีย:คุณช่วยเราได้|คุณช่วยเราได้]]''' อ่านคำแนะนำที่ [[วิกิพีเดีย:ศาลาประชาคม|ศาลาประชาคม]] และพูดคุยซักถามกับชาววิกิพีเดียคนอื่นที่ '''[[วิกิพีเดีย:สภากาแฟ|สภากาแฟ]]''' '''สำหรับวิธีการค้นหาหัวข้อที่ต้องการ ดูที่ [[วิกิพีเดีย:สำรวจ|สำรวจ]]'''
+
+{|
+|width="50%" valign="top" style="border: 1px solid gray; padding: 0em .5em .9em;   -moz-border-radius:8px"|
+== สิ่งที่คุณทำได้ ==
+{{คุณทำได้}}
+
+|width="50%" valign="top" style="border: 1px solid gray; padding: 0em .5em .9em;  -moz-border-radius:8px"|
+
+== สร้างบทความใหม่ ==
+{{สร้างบทความใหม่}}
+
+== ประกาศ ==
+{{ประกาศ}}
+|}
+|}
+|}
+{|  style="border-spacing:3px;margin:0px -3px"
+|class="MainPageBG" style="width: 100%; border: 1px solid #dfdfdf; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#ffffff;color:#000"
+! style="background-color: #ffffff; font-size: 125%; border: 1px solid #dfdfdf; text-align: left;  padding-left: 7px;   -moz-border-radius:7px"  | <div style="float:right;">[[ภาพ:Wbar_white.jpg]]</div>วิกิพีเดียในภาษาอื่น ๆ 
+|-
+|style="color:#000"|{{วิกิพีเดียในภาษาอื่น}}
+|-
+|}
+|}
+{| width="100%" style="border-spacing:3px;margin:0px -3px"
+|class="MainPageBG" style="width: 100%; border: 1px solid #dfdfdf; background-color: #ffffff; vertical-align: top;  -moz-border-radius:8px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#ffffff;color:#000"
+! style="background-color: #ffffff; font-size: 125%; border: 1px solid #dfdfdf; text-align: left;  padding-left: 7px;   -moz-border-radius:8px"  | <div style="float:right;">[[ภาพ:Wbar_white.jpg]]</div>โครงการอื่น ๆ
+|-
+|style="color:#000"|วิกิพีเดียดำเนินการโดย[[มูลนิธิวิกิมีเดีย]] ซึ่งเป็นองค์กรไม่แสวงหาผลกำไร นอกจากวิกิพีเดียแล้ว วิกิมีเดียยังดำเนินการโครงการ[[วิกิพีเดีย:รายชื่อวิกิพีเดียภาษาต่าง ๆ|หลายภาษา]]และ[[วิกิพีเดีย:ลิขสิทธิ์|เนื้อหาเสรี]]อีกหลายโครงการด้วยกัน ได้แก่ 
+|-
+|style="color:#000"|{{โครงการพี่น้อง}}
+|-
+|}
+|}
+<div class="MainPageBG" style="padding: .5em 1em 0; margin: 3px 3px 0; text-align: center;">
+{{ลิงก์ไปยังหน้าใหม่}}
+</div>
+{{หน้าหลัก-ลิงก์ข้ามภาษา}}
