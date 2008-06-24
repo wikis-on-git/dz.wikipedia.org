@@ -1,3 +1,10 @@
+__NOTOC__
+__NOTOC__
+{| wikitable border="2" width="100%"
+|<center><big><big> Welcome to Dzongkha Wikipedia! </big><br />
+[[Image:Flag of Bhutan.svg|left|thumb|100px]] 
+[[Image:Bhutan emblem.png|right|thumb|90px]]
+
 ==This subdomain is reserved for the creation of a Wikipedia in the <b>[[:en:Dzongkha language|Dzongkha language]]</b>==
 
 If you speak Dzongkha and think it would be cool to have your own Encyclopedia then '''you''' can make it.
@@ -10,15 +17,6 @@ Look at [[m:help:How to start a new Wikipedia|How to start a new Wikipedia]].
 
 <div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
 
-<inputbox>
- type=create
- width=90
- bgcolor=#ffffff
- preload=Template:Standard content for new page
- editintro=Template:Instructions
- default=
-</inputbox>
-</div>
 
 {|
 |- 
@@ -46,7 +44,7 @@ Look at [[m:help:How to start a new Wikipedia|How to start a new Wikipedia]].
 <!---------------------------------------------->
 | [[Image:Nuvola_apps_kdmconfig.png|40px|center]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Religion'''<br/>
-[[Christianity]]&nbsp;- [[Buddhism]]&nbsp;- [[Hinduism]]&nbsp;- [[Judaism]]&nbsp;- [[Islam]]&nbsp;- [[Atheism]]&nbsp;- 
+[[Christianity]]&nbsp;- [[Buddhism]]&nbsp;- [[Judaism]]&nbsp;- [[Atheism]]&nbsp;- 
 <!---------------------------------------------->
 |}
 | width="50%" valign="top" | 
@@ -77,6 +75,16 @@ Look at [[m:help:How to start a new Wikipedia|How to start a new Wikipedia]].
 <!---------------------------------------------->
 |}
 |}
+
+<inputbox>
+ type=create
+ width=90
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+</inputbox>
+</div>
 
 '''Other wikis'''
 <small>[http://meta.wikipedia.org Meta-Wiki] | [http://dz.wiktionary.org Wikitonary] | [http://wikibooks.org Wikibooks] | [http://wikiquote.org Wikiquote] | [http://wikisource.org Wikisource]</small>
