@@ -3,9 +3,9 @@ __NOTOC__
 {| wikitable border="2" width="100%"
 |<center><big><big> Welcome to Dzongkha Wikipedia! </big><br />
 [[Image:Flag of Bhutan.svg|left|thumb|100px]] 
-[[Image:Bhutan emblem.png|right|thumb|90px]]
+[[Image:Bhutan emblem.svg|right|thumb|90px]]
 
-==This subdomain is reserved for the creation of a Wikipedia in the <b>[[:en:Dzongkha language|Dzongkha language]]</b>==
+==བྱོན་པ་ལེགས་ས</b>==
 
 If you speak Dzongkha and think it would be cool to have your own Encyclopedia then '''you''' can make it.
 
@@ -15,7 +15,7 @@ If you speak Dzongkha and think it would be cool to have your own Encyclopedia t
 
 Look at [[:en:Wikipedia:Cheatsheet|How to edit a page]].
 
-You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan Unicode script] to correctly view in Dzongkha. 
+You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan Unicode script] to correctly view Dzongkha script. 
 <div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
 
 
@@ -37,8 +37,8 @@ You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan 
 |-
 <!---------------------------------------------->
 | [[Image:Nuvola_apps_bookcase.png|40px|center]]
-| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Languages'''<br/>
-[[དབྱིན་སྐད་|དབྱིན་སྐད།]]&nbsp;- [[བོད་སྐད]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད]]་&nbsp;- [[Chinese language]]&nbsp;- [[French language]]&nbsp;-
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''སྐད་ཡིག'''<br/>
+[[ཨིང་ལིཤ]]&nbsp;- [[བོད་སྐད]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད]]་&nbsp;- [[Chinese language]]&nbsp;- [[French language]]&nbsp;-
 <!---------------------------------------------->
 |- 
 <!---------------------------------------------->
@@ -67,14 +67,14 @@ You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan 
 |- 
 <!---------------------------------------------->
 | [[Image:Nuvola_apps_atlantik.png|40px|center]]
-| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''University'''<br/>
-[[wp/rar/University|University]]&nbsp;- [[wp/rar/Science|Science]]&nbsp;- [[wp/rar/Chemistry|Chemistry]]&nbsp;- [[wp/rar/Physics|Physics]]&nbsp;- [[wp/rar/Biology|Biology]]&nbsp;- [[wp/rar/Engineering|Engineering]]&nbsp;- [[wp/rar/Geology|Geology]]&nbsp;- [[wp/rar/Astronomy|Astronomy]]&nbsp;- [[wp/rar/Business|Business]]&nbsp;- [[wp/rar/Accounting|Accounting]]&nbsp;- [[wp/rar/Economics|Economics]]&nbsp;- 
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''གཙུག་ལག་སློབ་གྲྭ'''<br/>
+[[གཙུག་ལག་སློབ་གྲྭ]]&nbsp;- [[ཚན་རིག]]&nbsp;- [[རྫས་ཁམས་རིག་པ]]&nbsp;- [[དངོས་ཁམས་རིག་པ]]&nbsp;- [[སྲོག་ཁམས་རིག་པ]]&nbsp;- [[wp/rar/Engineering|Engineering]]&nbsp;- [[ས་གཞི་རིག་པ]]&nbsp;- [[མཁའ་དབྱིངས་རིག་པ]]&nbsp;- [[ཚོང]]&nbsp;- [[wp/rar/Accounting|Accounting]]&nbsp;- [[དཔལ་འབྱོར་རིག་པ]]&nbsp;- 
 <!---------------------------------------------->
 |- 
 <!---------------------------------------------->
 | [[Image:Nuvola apps xmag.png|40px|center]]
-| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''Sports'''<br/>
-[[wp/rar/Basketball|Basketball]]&nbsp;- [[wp/rar/Tennis|Tennis]]&nbsp;- [[wp/rar/Soccer|Soccer]]&nbsp;- [[wp/rar/Rugby|Rugby]]&nbsp;- [[wp/rar/Cricket|Cricket]]&nbsp;- [[wp/rar/Netball|Netball]]&nbsp;- [[wp/rar/Hockey|Hockey]]&nbsp;- [[wp/rar/Bowling|Bowling]]&nbsp;- 
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" | '''རྩེད་རིགས'''<br/>
+[[དྲྭ་རིལ]]&nbsp;- [[ཐང་རིལ]]&nbsp;- [[རྐང་རིལ]]&nbsp;- [[wp/rar/Rugby|Rugby]]&nbsp;- [[གཡུག་རིལ]]&nbsp;- [[wp/rar/Netball|Netball]]&nbsp;- [[wp/rar/Hockey|Hockey]]&nbsp;- [[wp/rar/Bowling|Bowling]]&nbsp;- 
 <!---------------------------------------------->
 |}
 |}
