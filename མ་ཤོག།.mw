@@ -16,7 +16,7 @@ If you speak Dzongkha and think it would be cool to have your own Encyclopedia t
 Look at [[:en:Wikipedia:Cheatsheet|How to edit a page]].
 
 You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan Unicode script] to correctly view Dzongkha script. 
-<div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
+<div style="width:85%; padding:10px; background-color:#ffe19f; border:1px solid #ffe09c;">
 
 
 {|
@@ -101,7 +101,7 @@ You may need to download [http://www.babelstone.co.uk/Test/Tibetan.html Tibetan 
 <inputbox>
  type=create
  width=90
- bgcolor=#ffffff
+ bgcolor=#efb22d
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
