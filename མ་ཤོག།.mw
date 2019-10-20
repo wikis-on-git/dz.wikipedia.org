@@ -1,81 +1,65 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[파일:Wikipedia-logo-v2-200px-transparent.png|140px|링크=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">རྫོང་ཁའི་ཝེ་གེ་རིག་མཛོད་ལུ་ [[위키백과:བྱོན་པ་ལེགས་སོ!]]</div>ག་གི་ཡང་ ཞུན་དག་འབད་བཏུབ་པའི་རིག་མཛོད།<br/> འདི་ནང་ རྩོམ་བྲིས་ {{NUMBEROFARTICLES}} ཡོདཔ་ཨིན།</div>{{-}}
-|
-* {{Nobr|[[포털:인문학|인문학]]}}
-* {{Nobr|[[포털:예술|예술]]}}
-* {{Nobr|[[포털:과학|과학]]}}
-|
-* {{Nobr|[[포털:사회과학|사회과학]]}}
-* {{Nobr|[[포털:기술|기술]]}}
-* {{Nobr|'''[[포털:목차/포털|모든 포털]]'''}}
-|}
-</div><!-- /머릿글 -->
-<!-- འཚོལ --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=search
-width=25
-buttonlabel=찾기
- 
-searchbuttonlabel=འཚོལ
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-[[위키백과:정책과 지침|정책과 지침]] '''/'''
-[[위키백과:사용자 모임|사용자 모임]] '''/'''
-[[위키백과:도움말|도움말]] '''/'''
-[[위키백과:방명록|방명록]] '''/'''
-[https://donate.wikimedia.org/?uselang=ko 기부 안내] '''/'''
-[https://ko.m.wikipedia.org/ 모바일판 대문]
-</div><!-- /링크 모음 -->
-|}
-</div><!-- /찾기 -->
-<!-- 본문 -->
-{| id="mp_contents" style="width:100%; height: 100%; font-size: small; border-spacing:0;"
-<!-- 본문 왼쪽 -->
-| id="mp_contentsL" style="width: 63%; border:1px solid #a7d7f9; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;" | <div id="mp_featuredArticle" class="mp_contentsboxtitle" style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSutvald2.svg|35px|middle|링크=]]</div>[[위키백과:알찬 글|오늘의 알찬 글]]</div>
-<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div>
-{{-}}<!-- 오늘의 역사 -->
-<div id="mp_goodArticle" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSutvald2-Grey.svg|35px|middle|링크=]]</div>[[위키백과:좋은 글|오늘의 좋은 글]]</div>
-{{위키백과:오늘의 좋은 글}}
-{{-}}<!-- article of the day -->
-<div id="mp_todayInHistory" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSDagensdatum.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 역사|오늘의 역사]]</div>{{위키백과:ད་རིས་ཀྱི་ རྩོམ་བྲིས་ཚུ།/{{#timel:F j일}}}}
-{{-}}<!-- 알고 계십니까 -->
-<div id="mp_didYouKnow" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSVissteduatt.svg|35px|middle|링크=]]</div>[[위키백과:알고 계십니까|알고 계십니까]]</div>{{알고 계십니까}}
-<!-- /본문 왼쪽 -->
-| style="width: 0.5em" | &nbsp;
-<!-- 본문 오른쪽 -->
-| id="mp_contentsR" style="border:1px solid #a7d7f9; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em; | <div id="mp_introduce" class="mp_contentsboxtitle" style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:W-circle.svg|35px|middle|링크=]]</div>[[위키백과:소개|위키백과 소개]]</div>{{위키백과 소개}}
-{{-}}<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Text-x-generic with pencil-2.svg|35px|middle|링크=]]</div>[[위키백과:위키백과에 참여하기|위키백과 참여하기]]</div>{{위키백과 참여하기}}
-{{-}}<!-- 새로 들어온 소식 -->
-<div id="mp_CurrentEvents"  class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSAktuell.svg|35px|middle|링크=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div>
-{{-}}<!-- 오늘의 그림 -->
-<div id="mp_pictureOfTheDay" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
-<div class="center" style="overflow: hidden;">[[파일:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|250x250px]]<br />
-{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
-<div style="text-align:right;">'''[[:c:Commons:Featured pictures/ko |더 보기...]]'''</div>
-<!-- /본문 오른쪽 -->
-|}
-<!-- /본문 -->
-<!-- 바닥글 -->
-<div id="mp_footer" style="height: 100%; font-size: small;">
-<!-- 자매프로젝트 -->
-<div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
-{{자매프로젝트}}</div>
-<!-- 다른 언어 -->
-<div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
-{{다른 언어}}
+<!--        BANNER ACROSS TOP OF PAGE        -->
+<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
+<!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
+<div style="margin:0.4em; width:22em; text-align:center;">
+<div style="font-size:162%; padding:.1em;">རྫོང་ཁའི་ཝེ་ཁེ་རིག་མཛོད་ལུ་ བྱོན་པ་ལེགས་སོ།</div>
+<div style="font-size:95%;">ག་གི་ཡང་ཞུན་དག་འབད་བཏུབ་པའི་ རིག་མཛོད་ཆེན་པོ།</div>
+<div id="articlecount" style="font-size:85%;">རྫོང་ཁའི་ནང་ རྩོམ་བྲིས་[[Special:Statistics|{{NUMBEROFARTICLES}}]] ཡོད།</div>
 </div>
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]</div>위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.<br />개인 편집자가 자신의 기여에 책임을 져야 합니다.</div>
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+<ul style="position:absolute; right:-1em; top:50%; margin-top:-2.4em; width:38%; min-width:25em; font-size:95%;">
+<li style="position:absolute; left:0; top:0;">[[Portal:Arts|སྲིད་རིག]]</li>
+<li style="position:absolute; left:0; top:1.6em;">[[Portal:Biography|རྣམ་ཐར]]</li>
+<li style="position:absolute; left:0; top:3.2em;">[[Portal:Geography|ས་ཆ་རིག་པ]]</li>
+<li style="position:absolute; left:33%; top:0;">[[Portal:History|བྱུང་རབས]]</li>
+<li style="position:absolute; left:33%; top:1.6em;">[[Portal:Mathematics|རྩིས་རིག]]</li>
+<li style="position:absolute; left:33%; top:3.2em;">[[Portal:Science|ཚན་རིག]]</li>
+<li style="position:absolute; left:66%; top:0;">[[Portal:Society|མི་སྡེ]]</li>
+<li style="position:absolute; left:66%; top:1.6em;">[[Portal:Technology|འཕྲུལ་རིག]]</li>
+<li style="position:absolute; left:66%; top:3.2em;"><strong>[[Portal:Contents/Portals|མ་སྒོ་ གཞན]]</strong></li>
+</ul>
 </div>
-</div><!-- /바닥글 -->
-{{대문 인터위키}}{{noexternallanglinks}}
+<!--        MAIN PAGE BANNER        -->
+{{#if:{{Main Page banner}}|
+<div id="mp-banner" class="MainPageBG" style="margin-top:4px; padding:0.5em; background-color:#fffaf5; border:1px solid #f2e0ce;">
+{{Main Page banner}}
+</div>
+}}
+<!--        TODAY'S FEATURED CONTENT        -->
+{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;"|
+<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|ད་རིས་ཀྱི་ རྩོམ་བྲིས། <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">ཁྱོད་ཀྱི་ཤེས་ག་་་</h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
+| style="border:1px solid transparent;"|
+<!--        IN THE NEWS and ON THIS DAY        -->
+| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">གནས་ཚུལ་ནང་་་</h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">{{In the news}}</div>
+<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">ད་རིས་ཀྱི་ ཉིནམ་ལུ་་་</h2>
+<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
+|}
+<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
+<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-center">
+<h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em">From today's featured list</h2>
+<div id="mp-tfl" style="padding:0.3em 0.7em;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div>
+</div>
+</div>|}}<!-- END CONDITIONAL SHOW -->
+<!--        TODAY'S FEATURED PICTURE        -->
+<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div id="mp-bottom">
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|ད་རིས་ཀྱི་ པར| ད་རིས་ཀྱི་ པར།&ensp;<span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
+</div>
+</div>
+<!--        SECTIONS AT BOTTOM OF PAGE        -->
+<h2 id="mp-sister" style="margin:0.5em; background:#eeeeee; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">རིག་མཛོད་ཡི་ ལས་གུལ་གཞན། </h2>
+<div id="mp-sister-content" style="padding:0.1em 0.6em;">{{Wikipedia's sister projects}}</div>
+<h2 id="mp-lang" style="margin:0.5em; background:#efefef; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">རིག་མཛོད་ཡི་ སྐད་ཡིག་ཚུ།</h2>
+<div style="padding:0.1em 0.6em;">{{Wikipedia languages}}</div>
+</div>
+<!--        INTERWIKI STRAPLINE        -->
+<noinclude>{{Main Page interwikis}}{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
