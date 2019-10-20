@@ -1,74 +1,72 @@
-<!-- 머릿글 -->
-<div id="mp_header" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; overflow: hidden; padding: 0.5em; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius:0.8em;">
-{| width="100%" 
-| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[파일:Wikipedia-logo-v2-200px-transparent.png|140px|링크=]]</div>
-<div style="float: left; margin-left:115px"><div style="font-size:1.4em; font-weight: bold">ཝི་ཀི་རིག་མཛོད་ལུ་ བྱོན་པ་ལེགས་སོ!]]</div>ག་ར་གི་ ཞུན་དག་འབད་བཏུབ་པའི་ རིག་མཛོད་ཆེན་པོ།<br/>རྫོང་ཁའི་རིག་མཛོད་ནང་ རྩོམ་བྲིས་ [[གནས་སྡུད:ཡོངས་སྡོམས|'''{{NUMBEROFARTICLES}}''']]ཡོདཔ་ཨིན།</div>{{-}}
-|
-* {{སྲིད་རིག|[[སྲིད་རིག་མ་སྒོ]]}}
-* {{ཚོང་རིག|[[ཚོང་རིག་མ་སྒོ]]}}
-* {{ཚན་རིག|[[ཚན་རིག་མ་སྒོ]]}}
-|
-* {{རྩིས་རིག|[[རྩིས་རིག་མ་སྒོ]]}}
-* {{མི་སྡེ|[[མི་དང་འབྲེལ་བའི་མ་སྒོ]]}}
-* {{མ་སྒོ་གཞན་ཚུ|'''[[མ་སྒོ་གཞན:목차/포털|모든 포털]]'''}}
+__NOTOC__
+__NOTOC__
+<!--  {{Banner}}   -->
+{|border="1" width="100%"
+|[[File:Emblem_of_Bhutan.svg|right|100px|རྒྱལ་ཡོངས་ ལས་རྟགས།]][[File:Flag_of_Bhutan.svg|left|100px|རྒྱལ་དར།]]རྫོང་ཁའི་ཝེ་ཁེ་རིག་མཛོད་ལུ་བྱོན་པ་ལེགས་སོ།
+</center>
+|<inputbox>
+ type=create
+ width=35
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+</inputbox>
 |}
-</div><!-- /འཚོལ་སའི་ས་ཁོངས -->
-<!-- འཚོལ --><div id="mp_search" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; background-color: #f9fcff; vertical-align:top; padding:0 0.5em 0 0.5em; overflow: auto; font-size: small; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-{| width="100%"
-|<div style="float: left; overflow: hidden;">
-<inputbox>
-type=search
-width=25
-buttonlabel=འཚོལ།
-searchbuttonlabel=གསརཔ་བཟོ། 
-break=no
-</inputbox></div>
-|<!-- 링크 모음 -->
-<div class="plainlinks" style="text-align: right; color: #71c9f0">
-</div><!-- /링크 모음 -->
+{|
+| width="50%" valign="middle" |
+{| width="100%" border="0" cellspacing="0" cellpadding="5"
+| width="10%" |[[File:Nuvola_apps_kcoloredit.png|centre|40x40px]]
+| width="90%" style="font-size: 95%; " |'''[[འབྲུག་རྒྱལ་ཁབ་]]'''
+[[འབྲུག་ཡུལ་]]&nbsp;- [[སྐུ་འཁོར་གྱི་རྒྱུད་པ།]]&nbsp;- [[འབྲུག་]]&nbsp;- [[ཐིམ་ཕུ་]]&nbsp;- [[རྫོང་ཁ་]]&nbsp; [[དངུལ་ཀྲམ་]]&nbsp;- [[རྒྱལ་པོ་འཇིགས་མེད་ཁེ་གསར་རྣམ་རྒྱལ་དབང་པྱུག་]]&nbsp;- [[འབྲུག་ཙན་དན་]]&nbsp;- [[ཕུན་ཚོགས་གླིང་]]&nbsp;- [[སྤུ་ན་ཁ་]]&nbsp;- [[བསམ་གྲུབ་ལྗོངས་མཁར་]]&nbsp;- [[གསར་སྤང་]]&nbsp;- [[སྤ་རོ་]]&nbsp;- [[བཀྲིས་སྒང་]]&nbsp;- [[དབང་འདུས་ཕོ་བྲང་]]&nbsp;- [[ཏ་ག་རྫོང་]]&nbsp;- [[ཀྲོང་གསར་]]&nbsp;- [[རྟ་མགོ]]&nbsp;-
+|-
+|[[File:Nuvola_apps_edu_languages.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[རྫོང་ཁག]]'''
+[[ཀྲོང་གསར་རྫོང་ཁག]]&nbsp;· [[བཀྲིས་སྒང་རྫོང་ཁག]]&nbsp;· [[མགར་ས་རྫོང་ཁག]]&nbsp;· [[ཆུ་ཁ་རྫོང་ཁག]]་&nbsp;· [[ཐིམ་ཕུ་རྫོང་ཁག]]&nbsp;· [[དར་དཀར་ན་རྫོང་ཁག]]&nbsp;· [[པདྨ་དགའ་ཚལ་རྫོང་ཁག]]&nbsp;· [[སྤ་རོ་རྫོང་ཁག]]&nbsp;· [[སྤུ་ན་ཁ་རྫོང་ཁག]]&nbsp;·  [[བུམ་ཐང་རྫོང་ཁག]]&nbsp;· [[དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག]]&nbsp;· [[མོང་སྒར་རྫོང་ཁག]]&nbsp;· [[རྩི་རང་རྫོང་ཁག]]&nbsp;· [[གཞལ་ལམ་སྒང་རྫོང་ཁག]]&nbsp;·  [[གཡང་རྩེ་རྫོང་ཁག]]&nbsp;· [[གསར་སྤང་རྫོང་ཁག]]&nbsp;· [[བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག]]&nbsp;· [[བསམ་རྩེ་རྫོང་ཁག]]&nbsp;· [[ཧཱ་རྫོང་ཁག]]&nbsp;· [[ལྷུན་རྩེ་རྫོང་ཁག]]&nbsp;·
+|-
+|[[File:Nuvola_apps_bookcase.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[སྐད་ཡིག]]'''
+[[ཨིང་ལིཤ]]&nbsp;- [[བོད་སྐད།]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད།]]་&nbsp;- [[རྒྱ་སྐད]]&nbsp;- [[ཧྥུ་རན་སིའི་སྐད་]]&nbsp;-[[ལྷོ་ཀོ་རི་ཡའི་སྐད་]]&nbsp;-[[གསེར་ལྡན་རྒྱལ་ཁབ་ཀྱི་སྐད]]&nbsp;-
+|-
+|[[File:Dharma_Wheel.svg|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[ཆོས]]''' <!--Religion-->
+[[སངས་རྒྱས་ཀྱི་བསྟན་པ]]།<!--Buddhism-->&nbsp;· [[བཀའ་བརྒྱུད་པ།]]&nbsp;·་[[འབྲུག་པ་བཀའ་བརྒྱུད།|	འབྲུག་པ་བཀའ་བརྒྱུད་པ།]]&nbsp;· [[སྔ་འགྱུར་རྙིང་མ་བ།]]&nbsp;· [[ས་སྐྱ་པ]]&nbsp;·  
+
+[[མུ་སྟེགས་པ་ཆོས་ལུགས]]&nbsp;·  [[ཧིན་རྡུ་ཆོས་ལུགས།]]&nbsp;· <!--Hinduism-->&nbsp;· [[རྒྱལ་བ་པ།]]<!--Jainism-->&nbsp;· [[ཁྱབ་འཇུག་པ་ཆོས་ལུགས]] <!--Vaishnava-->&nbsp;· [[དབང་ཕྱུག་]] <!--Śavite--> [[ཡེ་ཤུའི་ཆོས་ལུགས]]<!--Christianity-->&nbsp;- [[ཁ་ཆེའི་ཆོས་ལུགས]]<!--Islam-->&nbsp;· [[ཆད་ལྟའི་རིང་ལུགས]]<!--Atheism-->&nbsp;·
+|-
+|[[File:Trashigang_Dzong-rear-2008-01-02.jpg|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[འབྲུག་གི་རྫོང་གཞི]]''' <!--Dzongs of Bhutan-->
+[[དར་དཀར་བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Darkar Trashi Yangtse Dzong-->&nbsp; [[འབྲུག་རྒྱལ་རྫོང་]]།<!--Drukgyal Dzong-->&nbsp; [[ཧཱ་ དབང་ཕྱུག་ལྷོ་རྫོང་]]།<!--Haa Wangchuck Lo Dzong-->&nbsp; [[ལྷུན་སྒྲུབ་ རིན་ཆེན་རྩེ་ རྫོང་]]།<!--Lhundrup Rinchentse Dzong-->&nbsp; [[སྤུ་ན་ཁ་རྫོང་]]།<!--Punakha Dzong-->&nbsp; [[སེངྒེ་རྫོང་]]།<!--Singye Dzong-->&nbsp; [[བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Trashi Yangtse Dzong-->&nbsp; [[བཀྲ་ཤིས་སྒང་རྫོང་]]།<!--Trashigang Dzong-->&nbsp; [[དབང་འདུས་ཕོ་བྲང་རྫོང་]]།<!--Wangdue Phodrang Dzong-->&nbsp; [[ཞོང་གར་རྫོང་]]།<!--Zhongar Dzong-->&nbsp; [[རྡོ་གར་རྡོབ་རྗི་རྫོང་]]།<!--Dogar Dobji Dzong-->&nbsp; [[མགར་ས་ བཀྲ་ཤིས་མཐོང་སྨོན་རྫོང་]]།<!--Gasa Trashi Thongmoen Dzong-->&nbsp; [[བྱ་དཀར་གཡུལ་རྒྱལ་རྫོང་]]།<!--Jakar Yugyel Dzong-->&nbsp; [[སྤ་རོ་ རིན་སྤུང་རྫོང་]]།<!--Paro Rinpung Dzong-->&nbsp; [[སེམས་རྟོགས་ཁ་རྫོང་]]།<!--Simtokha Dzong-->&nbsp;  [[ལྟ་རྫོང་]]།<!--Ta Dzong-->&nbsp; [[བཀྲ་ཤིས་ཆོས་རྫོང་]]།<!--Trashichho Dzong-->&nbsp; [[ཀྲོང་གསར་རྫོང་]]།<!--Trongsa Dzong-->&nbsp; [[ཞལམ་སྒང་ བདེ་ཆེན་གཡང་རྩེ་རྫོང་]]།<!--Zhemgang Dechen Yangtse Dzong-->&nbsp;
 |}
-</div><!-- /찾기 -->
-<!-- རྩ་ཡིག -->
-{| id="mp_contents" style="width:100%; height: 100%; font-size: small; border-spacing:0;"
-<!-- གཡོན་ཕྱོགས -->
-| id="mp_contentsL" style="width: 63%; border:1px solid #a7d7f9; vertical-align:top; padding: 1em; overflow: auto; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;" | <div id="mp_featuredArticle" class="mp_contentsboxtitle" style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSutvald2.svg|35px|middle|링크=]]</div>[[위키백과:알찬 글|ད་རིས་ཀྱི་ རྩོམ་བྲིས།]]</div>
-<div id="mp-tfa">{{위키백과:오늘의 알찬 글}}</div>
-{{-}}<!-- རྩོམ་བྲིས་ལེགས་ཤོམ -->
-<div id="mp_goodArticle" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSutvald2-Grey.svg|35px|middle|링크=]]</div>[[위키백과:좋은 글|རྩོམ་བྲིས་ ལེགས་ཤོམ།]]</div>
-{{위키백과:오늘의 좋은 글}}
-{{-}}<!-- བྱུང་རབས -->
-<div id="mp_todayInHistory" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSDagensdatum.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 역사|ད་རིས་ཀྱི་ བྱུང་རབས]]</div>{{위키백과:오늘의 역사/{{#timel:F j일}}}}
-{{-}}<!-- ཤེས་ག -->
-<div id="mp_didYouKnow" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSVissteduatt.svg|35px|middle|링크=]]</div>[[위키백과:ཁྱོད་ཀྱི་ ཤེས་ག་་་]]</div>{{알고 계십니까}}
-<!-- /본문 왼쪽 -->
-| style="width: 0.5em" | &nbsp;
-<!-- 본문 오른쪽 -->
-| id="mp_contentsR" style="border:1px solid #a7d7f9; vertical-align:top; padding: 1em; overflow: auto; background-color: #eef6ff; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em; | <div id="mp_introduce" class="mp_contentsboxtitle" style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:W-circle.svg|35px|middle|링크=]]</div>[[위키백과:소개|위키백과 소개]]</div>{{위키백과 소개}}
-{{-}}<!-- 위키백과 참여하기 -->
-<div id="mp_participation" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Text-x-generic with pencil-2.svg|35px|middle|링크=]]</div>[[위키백과:위키백과에 참여하기|위키백과 참여하기]]</div>{{위키백과 참여하기}}
-{{-}}<!-- 새로 들어온 소식 -->
-<div id="mp_CurrentEvents"  class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSAktuell.svg|35px|middle|링크=]]</div>[[위키백과:새로 들어온 소식|새로 들어온 소식]]</div><div id="mp-itn">{{새로 들어온 소식}}</div>
-{{-}}<!-- 오늘의 그림 -->
-<div id="mp_pictureOfTheDay" class="mp_contentsboxtitle" style="background-color:#bbddff; margin: 1.2em 0 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSBild.svg|35px|middle|링크=]]</div>[[위키백과:오늘의 그림|오늘의 그림]]</div>
-<div class="center" style="overflow: hidden;">[[파일:{{위키백과:오늘의 그림/{{#timel:Y년 F}}/그림|d{{#timel:j}}}}|250x250px]]<br />
-{{#if: {{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/한국어|d{{#timel:j}}}}|{{위키백과:오늘의 그림/{{#timel:Y년 F}}/영어|d{{#timel:j}}}}}}</div>
-<div style="text-align:right;">'''[[:c:Commons:Featured pictures/ko |더 보기...]]'''</div>
-<!-- /본문 오른쪽 -->
+| width="50%" valign="top" |
+{| width="100%" border="0" cellspacing="0" cellpadding="5"
+| width="10%" |[[File:Nuvola_apps_kalzium.png|centre|40x40px]]
+| width="90%" style="font-size: 95%;" |'''[[ཨེ་ཤར་ཡ་]]'''
+[[འཇར་པན།]]&nbsp;- [[རྒྱ་མི།]]&nbsp;- [[སོག་པོ།]]&nbsp;- [[ཐེ་ཝན།]]&nbsp;- [[ཀམ་བོ་ཌི་ཡ།]]&nbsp;- [[མེ་མར།]]&nbsp;- [[ཐཱའི་ལེནཌ།]]&nbsp;- [[ལྷོ་ཀོ་རི་ཡ།]]&nbsp;- [[བྱང་ཀོ་རི་ཡ།]]&nbsp;- [[རྒྱ་གར།]]&nbsp;- [[ཤྲཱྀ་ལངཀ་]]&nbsp;- [[བལ་ཡུལ།]]&nbsp;- [[བངྒ་ལ་དེཤ།]]&nbsp;- [[མ་ལེ་ཤི་ཡ།]]&nbsp;- [[ཨཕ་ག་ནིསི་ཏཱན།]]&nbsp;- [[ཨི་རཱན།]]&nbsp;- [[ལེ་བཱ་ནཱོན་]]&nbsp;- [[ཨིཛ་རཱེལ་]]&nbsp;- [[ཀུ་ཝེཊ་]]&nbsp;- [[ཡུ་ནའི་ཊེཊ་ཨ་རབ་ཨེ་མི་རེཊསི་]]&nbsp;- [[ཨུཛ་བེ་ཀིསི་ཏཱན་]]&nbsp;- [[ཏ་ཇག་ཀིསི་ཏཱན་]]&nbsp;- [[བཧ་རེན་]]&nbsp;- [[སའུ་དི་ཨེ་ར་སྦི་ཡ་]]&nbsp;-
+|-
+|[[File:Nuvola_apps_display.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA; " |'''[[དཔེ་བསྐྲུན།]]''' <!--Others-->
+[[ཨ་ཧྥེ་རི་ཀ་]]&nbsp;- [[ཨེན་ཊཱག་ཊི་ཀ་]]&nbsp;-  [[གཟའ་ཟླ་བ་]]&nbsp;- [[གཟའ་མིག་དམར་]]&nbsp;- [[གཟའ་ལྷག་པ་]]&nbsp;- [[གཟའ་ཕུར་བུ་]]&nbsp;- [[གཟའ་པ་སངས་]]&nbsp;- [[གཟའ་སྤེན་པ་]]&nbsp;- [[གཟའ་ཉི་མ་]]&nbsp;- [[སྤྱི་ཟླ་དང་པོ་]]&nbsp;- [[སྤྱི་ཟླ་གཉིས་པ་]]&nbsp;- [[སྤྱི་ཟླ་གསུམ་པ་]]&nbsp;- [[སྤྱི་ཟླ་བཞི་པ་]]&nbsp;- [[སྤྱི་ཟླ་ལྔ་པ་]]&nbsp;- [[སྤྱི་ཟླ་དྲུག་པ་]]&nbsp;- [[སྤྱི་ཟླ་བདུན་པ་]]&nbsp;- [[སྤྱི་ཟླ་བརྒྱད་པ་]]&nbsp;- [[སྤྱི་ཟླ་དགུ་པ་]]&nbsp;- [[སྤྱི་ཟླ་བཅུ་པ་]]&nbsp;- [[སྤྱི་ཟླ་བཅུ་གཅིག་པ་]]&nbsp;- [[སྤྱི་ཟླ་བཅུ་གཉིས་པ་]]&nbsp;-
+|-
+|[[File:Nuvola_apps_atlantik.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[གཙུག་ལག་སློབ་གྲྭ]]'''
+[[གཙུག་ལག་སློབ་གྲྭ]]&nbsp;- [[ཚན་རིག]]&nbsp;- [[རྫས་འགྱུར་རིག་པ]]&nbsp;- [[དངོས་ཁམས་རིག་པ]]&nbsp;- [[སྲོག་ཁམས་རིག་པ]]&nbsp;- [[བཟོ་ལས]]<!-- Engineering -->&nbsp;- [[ས་གཞི་རིག་པ]]&nbsp;- [[མཁའ་དབྱིངས་རིག་པ]]&nbsp;- [[ཚོང]]&nbsp;- [[དཔལ་འབྱོར་རིག་པ]]&nbsp;-
+|-
+|[[File:Nuvola_apps_xmag.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[རྩེད་རིགས]]'''
+[[དྲྭ་རིལ]]&nbsp;- [[ཐང་རིལ]]&nbsp;- [[རྐང་རིལ]]&nbsp;- [[རག་བི]]&nbsp;- [[གཡུག་རིལ]]&nbsp;- [[འདེད་རིལ]]<!-- hockey -->&nbsp;-
+|-
+|[[File:Kyichu_Lhakhang-060701.JPG|centre|53x53px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[འབྲུག་གི་དགོན་སྡེ་དང་ལྷ་ཁང་]]''' <!--Monasteries in Bhutan-->
+[[སྦོ་ཁ་རྫོང་]]།<!--Bokha Dzong-->&nbsp; [[མཆོད་རྟེན་སྐོར་ར]]།<!--Chorten Kora-->&nbsp; [[དགྲ་མེད་རྩེ་ལྷ་ཁང་]]།<!--Drametse Lhakhang-->&nbsp; [[ལྷ་ཁང་དཀར་པོ]]།<!--Lhakhang Karpo-->&nbsp; [[རྟ་ལོག་གསང་སྔགས་ཆོས་གླིང་]]།<!--Talo Sanga Choeling-->&nbsp; [[ཡོངས་ལ་དཔལ་རི་དགོན་པ]]།<!--Yongla Pelri Gonpa-->&nbsp; [[སྒོམ་ཕུ་སྐོར་ར]]།<!--Gomphu Kora-->&nbsp; [[སྐྱིད་ཆུ་ལྷ་ཁང་]]།<!--Kichu Lhakhang-->&nbsp; [[རྟ་མགོ་དགོན་པ]]།<!--Tango Monastery-->&nbsp; [[བུ་ལི་ ཁི་ལམ་ ལྷ་ཁང་]]།<!--Buli Khelem Gonpa-->&nbsp; [[རྡོ་ལུང་ དགོན་པ]]།<!--Dolung Gonpa-->&nbsp; [[བྱམས་པ་ལྷ་ཁང་]]།<!--Jampa Lhakhang-->&nbsp; [[སྟག་ཚང་]]།<!--Taktshang-->&nbsp; [[མཚམས་བྲག་དགོན་པ]]།<!--Tsamdrak Gonpa-->&nbsp; [[སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་]]།<!--Gangtey Sanga Choeling-->&nbsp; [[སྐུ་རྗེས་ ལྷ་ཁང་]]།<!--Kurje Lhakhang-->&nbsp; [[ཕ་ཇོ་ལྡིང་ལྷ་ཁང་]]།<!--Phajoding Monastey-->&nbsp; [[ཁམས་གསུམ་གཡུལ་ལས་རྣམ་རྒྱལ་མཆོད་རྟེན།]]&nbsp; 
 |}
-<!-- /본문 -->
-<!-- 바닥글 -->
-<div id="mp_footer" style="height: 100%; font-size: small;">
-<!-- 자매프로젝트 -->
-<div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:Wikimedia-logo-circle.svg|35px|middle|링크=]]</div>[[위키백과:자매 프로젝트|자매 프로젝트]]</div>
-{{자매프로젝트}}</div>
-<!-- 다른 언어 -->
-<div id="mp_otherLanguages" class="mp_outerbox" style="border:1px solid #a7d7f9; margin-bottom: 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.2em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[파일:HSEarth.svg|35px|middle|링크=]]</div>다른 언어로 된 위키백과</div>
-{{다른 언어}}
-</div>
-<div id="mp_bottom" class="mp_outerbox" style="border:1px solid #a7d7f9; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="text-align:center;"><div style="font-size: 1.2em">[[위키백과:면책 조항|위키백과는 내용의 확실성을 보증하지 않습니다.]]</div>위키백과 프로젝트의 호스팅을 제공하는 [[위키미디어 재단]]은 내용상 오류에 대해 어떠한 책임도 지지 않습니다.<br />개인 편집자가 자신의 기여에 책임을 져야 합니다.</div>
-</div>
-</div><!-- /바닥글 -->
-{{대문 인터위키}}{{noexternallanglinks}}
+|}
+
+== སྐད་རིགས་གཞན། ==
+{{སྐད་རིགས་གཞན།}}
+
+== ཁ་སྐད། ==
+{{གཞན།. ཁ་སྐད། ཁ། སྐད་ཡིག}}
+<!-- missing WikiMedia 1.3 support -->
+<!-- missing WikiMedia 1.3 support -->
+<!-- missing WikiMedia 1.3 support -->
