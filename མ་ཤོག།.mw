@@ -1,5 +1,5 @@
 <!--        BANNER ACROSS TOP OF PAGE        -->
-<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:wrap;">
+<div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:90%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
 <div style="margin:0.4em; width:22em; text-align:center;">
 <div style="font-size:162%; padding:.1em;">རྫོང་ཁའི་ཝེ་ཁེ་རིག་མཛོད་ལུ་ བྱོན་པ་ལེགས་སོ།</div>
