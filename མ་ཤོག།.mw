@@ -2,7 +2,7 @@
 <div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
 <!--        "WELCOME TO WIKIPEDIA" AND ARTICLE COUNT        -->
 <div style="margin:0.4em; width:22em; text-align:center;">
-<div style="font-size:162%; padding:.1em;">རྫོང་ཁའི་ཝེ་ཁེ་རིག་མཛོད་ལུ་ བྱོན་པ་ལེགས་སོ།</div>
+<div style="font-size:162%; padding:.1em;">ཝེ་ཁེ་རིག་མཛོད་ལུ་ བྱོན་པ་ལེགས་སོ།</div>
 <div style="font-size:95%;">ག་གི་ཡང་ཞུན་དག་འབད་བཏུབ་པའི་ རིག་མཛོད་ཆེན་པོ།</div>
 <div id="articlecount" style="font-size:85%;">རྫོང་ཁའི་ནང་ རྩོམ་བྲིས་[[Special:Statistics|{{NUMBEROFARTICLES}}]] ཡོད།</div>
 </div>
