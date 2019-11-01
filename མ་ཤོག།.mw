@@ -2,21 +2,17 @@ __NOTOC__
 __NOTOC__
 
 {| class="wikitable" border="5" width="100%"
-|[[File:Emblem_of_Bhutan.svg|right|100px|རྒྱལ་ཡོངས་ ལས་རྟགས།]][[File:Flag_of_Bhutan.svg|left|100px|རྒྱལ་དར།]]<center><h4><b>རྫོང་ཁའི་ཝི་ཀི་རིག་མཛོད་ལུ་བྱོན་པ་ལེགས་སོ།</b></h4><br>མི་རྣམས་ཀུན་གྱིས་རྩོམ་བྲིས་གནང་བཏུབ་པའི་རིག་གཛོད།
+|[[File:Emblem_of_Bhutan.svg|right|100px|རྒྱལ་ཡོངས་ ལས་རྟགས།]][[File:Flag_of_Bhutan.svg|left|100px|རྒྱལ་དར།]]<center><p style="font-size:16px"><b>རྫོང་ཁའི་ཀི་རིག་མཛོད་ལུ་བྱོན་པ་ལེགས་སོ།</b></p>
 </center>
-|}
-
-{|
 |<inputbox>
- type=create
+ type=གསརཔ་བཟོ
  width=35
- buttonlabel=གསརཔ་བཟོ
  bgcolor=#ffffff
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
 </inputbox>
-
+|}
 {|
 | width="50%" valign="middle" |
 {| width="100%" border="0" cellspacing="0" cellpadding="5"
