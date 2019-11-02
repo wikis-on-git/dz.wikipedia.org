@@ -14,12 +14,6 @@
  default=
 </inputbox>
 
-<!--        MAIN PAGE BANNER        -->
-{{#if:{{Main Page banner}}|
-<div id="mp-banner" class="MainPageBG" style="margin-top:4px; padding:0.5em; background-color:#fffaf5; border:1px solid #f2e0ce;">
-{{Main Page banner}}
-</div>
-}}
 <!--        TODAY'S FEATURED CONTENT        -->
 {| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
