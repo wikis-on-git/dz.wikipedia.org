@@ -44,17 +44,7 @@
 <div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
 </div>
 </div>
-<!--        SECTIONS AT BOTTOM OF PAGE        -->
-<div id="mp-other-lower" style="padding-top:4px; padding-bottom:2px; border:1px solid #e2e2e2; overflow:auto; margin-top:4px;">
-<h2 id="mp-other" style="margin:0.5em; background:#eeeeee; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">Other areas of Wikipedia</h2>
-<div id="mp-other-content" style="padding:0.1em 0.6em;">{{Other areas of Wikipedia}}</div>
-<h2 id="mp-sister" style="margin:0.5em; background:#eeeeee; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">Wikipedia's sister projects</h2>
-<div id="mp-sister-content" style="padding:0.1em 0.6em;">{{Wikipedia's sister projects}}</div>
-<h2 id="mp-lang" style="margin:0.5em; background:#efefef; border:1px solid #ddd; color:#222; padding:0.2em 0.4em; font-size:120%; font-weight:bold; font-family:inherit;">Wikipedia languages</h2>
-<div style="padding:0.1em 0.6em;">{{Wikipedia languages}}</div>
-</div>
-<!--        INTERWIKI STRAPLINE        -->
-<noinclude>{{Main Page interwikis}}{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
+{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
 
 
 
