@@ -17,31 +17,51 @@
  default=
 </inputbox>
 
-<!--        TODAY'S FEATURED CONTENT        -->
-{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
-<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
-| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;"|
-<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|ད་རིས་ཀྱི་རྩོམ་བྲིས <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
-<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
-<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">ཁྱོད་ཀྱི་ཤེས་ག&nbsp;་་་</h2>
-<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
-| style="border:1px solid transparent;"|
-<!--        IN THE NEWS and ON THIS DAY        -->
-| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
-<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">གནས་ཚུལ་ནང་ལུ</h2>
-<div id="mp-itn" style="padding:0.1em 0.6em;">{{In the news}}</div>
-<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">ད་རིས་ཀྱི་འདི་ནང་</h2>
-<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
+
+{|
+| width="50%" valign="middle" |
+{| width="100%" border="0" cellspacing="0" cellpadding="5"
+| width="10%" |[[File:Nuvola_apps_kcoloredit.png|centre|40x40px]]
+| width="90%" style="font-size: 95%; " |'''[[འབྲུག་རྒྱལ་ཁབ།]]'''
+[[འབྲུག་ཡུལ་]]&nbsp;- [[སྐུ་འཁོར་གྱི་རྒྱུད་པ།]]&nbsp;- [[འབྲུག་]]&nbsp;- [[ཐིམ་ཕུ་]]&nbsp;- [[རྫོང་ཁ་]]&nbsp; [[དངུལ་ཀྲམ་]]&nbsp;- [[རྒྱལ་པོ་འཇིགས་མེད་ཁེ་གསར་རྣམ་རྒྱལ་དབང་པྱུག་]]&nbsp;- [[འབྲུག་ཙན་དན་]]&nbsp;- [[ཕུན་ཚོགས་གླིང་]]&nbsp;- [[སྤུ་ན་ཁ་]]&nbsp;- [[བསམ་གྲུབ་ལྗོངས་མཁར་]]&nbsp;- [[གསར་སྤང་]]&nbsp;- [[སྤ་རོ་]]&nbsp;- [[བཀྲིས་སྒང་]]&nbsp;- [[དབང་འདུས་ཕོ་བྲང་]]&nbsp;- [[ཏ་ག་རྫོང་]]&nbsp;- [[ཀྲོང་གསར་]]&nbsp;- [[རྟ་མགོ]]&nbsp;-
+|-
+|[[File:Nuvola_apps_edu_languages.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[རྫོང་ཁག]]'''
+[[ཀྲོང་གསར་རྫོང་ཁག]]&nbsp;· [[བཀྲིས་སྒང་རྫོང་ཁག]]&nbsp;· [[མགར་ས་རྫོང་ཁག]]&nbsp;· [[ཆུ་ཁ་རྫོང་ཁག]]་&nbsp;· [[ཐིམ་ཕུ་རྫོང་ཁག]]&nbsp;· [[དར་དཀར་ན་རྫོང་ཁག]]&nbsp;· [[པདྨ་དགའ་ཚལ་རྫོང་ཁག]]&nbsp;· [[སྤ་རོ་རྫོང་ཁག]]&nbsp;· [[སྤུ་ན་ཁ་རྫོང་ཁག]]&nbsp;·  [[བུམ་ཐང་རྫོང་ཁག]]&nbsp;· [[དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག]]&nbsp;· [[མོང་སྒར་རྫོང་ཁག]]&nbsp;· [[རྩི་རང་རྫོང་ཁག]]&nbsp;· [[གཞལ་ལམ་སྒང་རྫོང་ཁག]]&nbsp;·  [[གཡང་རྩེ་རྫོང་ཁག]]&nbsp;· [[གསར་སྤང་རྫོང་ཁག]]&nbsp;· [[བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག]]&nbsp;· [[བསམ་རྩེ་རྫོང་ཁག]]&nbsp;· [[ཧཱ་རྫོང་ཁག]]&nbsp;· [[ལྷུན་རྩེ་རྫོང་ཁག]]&nbsp;·
+|-
+|[[File:Nuvola_apps_bookcase.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[སྐད་ཡིག]]'''
+[[ཨིང་ལིཤ]]&nbsp;- [[བོད་སྐད།]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད།]]་&nbsp;- [[རྒྱ་སྐད]]&nbsp;- [[ཧྥུ་རན་སིའི་སྐད་]]&nbsp;-[[ལྷོ་ཀོ་རི་ཡའི་སྐད་]]&nbsp;-[[གསེར་ལྡན་རྒྱལ་ཁབ་ཀྱི་སྐད]]&nbsp;-
+|-
+|[[File:Dharma_Wheel.svg|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[ཆོས]]''' <!--Religion-->
+[[སངས་རྒྱས་ཀྱི་བསྟན་པ]]།<!--Buddhism-->&nbsp;· [[བཀའ་བརྒྱུད་པ།]]&nbsp;·་[[འབྲུག་པ་བཀའ་བརྒྱུད།|	འབྲུག་པ་བཀའ་བརྒྱུད་པ།]]&nbsp;· [[སྔ་འགྱུར་རྙིང་མ་བ།]]&nbsp;· [[ས་སྐྱ་པ]]&nbsp;·  
+
+[[མུ་སྟེགས་པ་ཆོས་ལུགས]]&nbsp;·  [[ཧིན་རྡུ་ཆོས་ལུགས།]]&nbsp;· <!--Hinduism-->&nbsp;· [[རྒྱལ་བ་པ།]]<!--Jainism-->&nbsp;· [[ཁྱབ་འཇུག་པ་ཆོས་ལུགས]] <!--Vaishnava-->&nbsp;· [[དབང་ཕྱུག་]] <!--Śavite--> [[ཡེ་ཤུའི་ཆོས་ལུགས]]<!--Christianity-->&nbsp;- [[ཁ་ཆེའི་ཆོས་ལུགས]]<!--Islam-->&nbsp;· [[ཆད་ལྟའི་རིང་ལུགས]]<!--Atheism-->&nbsp;·
+|-
+|[[File:Trashigang_Dzong-rear-2008-01-02.jpg|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[འབྲུག་གི་རྫོང་གཞི]]''' <!--Dzongs of Bhutan-->
+[[དར་དཀར་བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Darkar Trashi Yangtse Dzong-->&nbsp; [[འབྲུག་རྒྱལ་རྫོང་]]།<!--Drukgyal Dzong-->&nbsp; [[ཧཱ་ དབང་ཕྱུག་ལྷོ་རྫོང་]]།<!--Haa Wangchuck Lo Dzong-->&nbsp; [[ལྷུན་སྒྲུབ་ རིན་ཆེན་རྩེ་ རྫོང་]]།<!--Lhundrup Rinchentse Dzong-->&nbsp; [[སྤུ་ན་ཁ་རྫོང་]]།<!--Punakha Dzong-->&nbsp; [[སེངྒེ་རྫོང་]]།<!--Singye Dzong-->&nbsp; [[བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Trashi Yangtse Dzong-->&nbsp; [[བཀྲ་ཤིས་སྒང་རྫོང་]]།<!--Trashigang Dzong-->&nbsp; [[དབང་འདུས་ཕོ་བྲང་རྫོང་]]།<!--Wangdue Phodrang Dzong-->&nbsp; [[ཞོང་གར་རྫོང་]]།<!--Zhongar Dzong-->&nbsp; [[རྡོ་གར་རྡོབ་རྗི་རྫོང་]]།<!--Dogar Dobji Dzong-->&nbsp; [[མགར་ས་ བཀྲ་ཤིས་མཐོང་སྨོན་རྫོང་]]།<!--Gasa Trashi Thongmoen Dzong-->&nbsp; [[བྱ་དཀར་གཡུལ་རྒྱལ་རྫོང་]]།<!--Jakar Yugyel Dzong-->&nbsp; [[སྤ་རོ་ རིན་སྤུང་རྫོང་]]།<!--Paro Rinpung Dzong-->&nbsp; [[སེམས་རྟོགས་ཁ་རྫོང་]]།<!--Simtokha Dzong-->&nbsp;  [[ལྟ་རྫོང་]]།<!--Ta Dzong-->&nbsp; [[བཀྲ་ཤིས་ཆོས་རྫོང་]]།<!--Trashichho Dzong-->&nbsp; [[ཀྲོང་གསར་རྫོང་]]།<!--Trongsa Dzong-->&nbsp; [[ཞལམ་སྒང་ བདེ་ཆེན་གཡང་རྩེ་རྫོང་]]།<!--Zhemgang Dechen Yangtse Dzong-->&nbsp;
 |}
-<!--        TODAY'S FEATURED LIST        -->
-<!--        TODAY'S FEATURED PICTURE        -->
-<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
-<div id="mp-bottom">
-<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Today's featured picture | པར&ensp;<span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
-<div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
-</div>
-</div>
-{{noexternallanglinks}}{{#if:{{Wikipedia:Main_Page/Tomorrow}}||}}</noinclude>__NOTOC____NOEDITSECTION__
+| width="50%" valign="top" |
+{| width="100%" border="0" cellspacing="0" cellpadding="5"
+| width="10%" |[[File:Nuvola_apps_kalzium.png|centre|40x40px]]
+| width="90%" style="font-size: 95%;" |'''[[ཨེ་ཤི་ཡ།]]'''
+[[འཇར་པན།]]&nbsp;- [[རྒྱ་མི།]]&nbsp;- [[སོག་པོ།]]&nbsp;- [[ཏའི་ཝན།]]&nbsp;- [[ཀམ་བོ་ཌི་ཡ།]]&nbsp;- [[མེ་མར།]]&nbsp;- [[ཐཱའི་ལེནཌ།]]&nbsp;- [[ལྷོ་ཀོ་རི་ཡ།]]&nbsp;- [[བྱང་ཀོ་རི་ཡ།]]&nbsp;- [[རྒྱ་གར།]]&nbsp;- [[ཤྲཱྀ་ལངཀ་]]&nbsp;- [[བལ་ཡུལ།]]&nbsp;- [[བངྒ་ལ་དེཤ།]]&nbsp;- [[མ་ལེ་ཤི་ཡ།]]&nbsp;- [[ཨཕ་ག་ནིསི་ཏཱན།]]&nbsp;- [[ཨི་རཱན།]]&nbsp;- [[ལེ་བཱ་ནཱོན་]]&nbsp;- [[ཨིཛ་རཱེལ་]]&nbsp;- [[ཀུ་ཝེཊ་]]&nbsp;- [[ཡུ་ནའི་ཊེཊ་ཨ་རབ་ཨེ་མི་རེཊསི་]]&nbsp;- [[ཨུཛ་བེ་ཀིསི་ཏཱན་]]&nbsp;- [[ཏ་ཇག་ཀིསི་ཏཱན་]]&nbsp;- [[བཧ་རེན་]]&nbsp;- [[སའུ་དི་ཨེ་ར་སྦི་ཡ་]]&nbsp;-
+|-
+|[[File:Nuvola_apps_display.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA; " |'''[[དཔེ་བསྐྲུན།]]''' <!--Others-->
+|-
+|-
+|[[File:Nuvola_apps_xmag.png|centre|40x40px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[རྩེད་རིགས]]'''
+[[དྲྭ་རིལ]]&nbsp;- [[ཐང་རིལ]]&nbsp;- [[རྐང་རིལ]]&nbsp;- [[རག་བི]]&nbsp;- [[གཡུག་རིལ]]&nbsp;- [[འདེད་རིལ]]<!-- hockey -->&nbsp;-
+|-
+|[[File:Kyichu_Lhakhang-060701.JPG|centre|53x53px]]
+| style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[འབྲུག་གི་དགོན་སྡེ་དང་ལྷ་ཁང་]]''' <!--Monasteries in Bhutan-->
+[[སྦོ་ཁ་རྫོང་]]།<!--Bokha Dzong-->&nbsp; [[མཆོད་རྟེན་སྐོར་ར]]།<!--Chorten Kora-->&nbsp; [[དགྲ་མེད་རྩེ་ལྷ་ཁང་]]།<!--Drametse Lhakhang-->&nbsp; [[ལྷ་ཁང་དཀར་པོ]]།<!--Lhakhang Karpo-->&nbsp; [[རྟ་ལོག་གསང་སྔགས་ཆོས་གླིང་]]།<!--Talo Sanga Choeling-->&nbsp; [[ཡོངས་ལ་དཔལ་རི་དགོན་པ]]།<!--Yongla Pelri Gonpa-->&nbsp; [[སྒོམ་ཕུ་སྐོར་ར]]།<!--Gomphu Kora-->&nbsp; [[སྐྱིད་ཆུ་ལྷ་ཁང་]]།<!--Kichu Lhakhang-->&nbsp; [[རྟ་མགོ་དགོན་པ]]།<!--Tango Monastery-->&nbsp; [[བུ་ལི་ ཁི་ལམ་ ལྷ་ཁང་]]།<!--Buli Khelem Gonpa-->&nbsp; [[རྡོ་ལུང་ དགོན་པ]]།<!--Dolung Gonpa-->&nbsp; [[བྱམས་པ་ལྷ་ཁང་]]།<!--Jampa Lhakhang-->&nbsp; [[སྟག་ཚང་]]།<!--Taktshang-->&nbsp; [[མཚམས་བྲག་དགོན་པ]]།<!--Tsamdrak Gonpa-->&nbsp; [[སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་]]།<!--Gangtey Sanga Choeling-->&nbsp; [[སྐུ་རྗེས་ ལྷ་ཁང་]]།<!--Kurje Lhakhang-->&nbsp; [[ཕ་ཇོ་ལྡིང་ལྷ་ཁང་]]།<!--Phajoding Monastey-->&nbsp; [[ཁམས་གསུམ་གཡུལ་ལས་རྣམ་རྒྱལ་མཆོད་རྟེན།]]&nbsp; 
+|}
+|}
 
 
 
