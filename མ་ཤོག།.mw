@@ -11,7 +11,7 @@
  type=create
  width=35
  buttonlabel=གསརཔ་བཟོ
- bgcolor=#ffffff
+ bgcolor=blue
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
