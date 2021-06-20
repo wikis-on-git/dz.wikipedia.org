@@ -1,11 +1,9 @@
-
 {| class="wikitable" border="10px" width="100%" wikitable backgroung-color="green" yellow orange length="available"
 |
 [[File:Emblem_of_Bhutan.svg|right|100px|རྒྱལ་ཡོངས་ ལས་རྟགས།]]
 [[File:Flag_of_Bhutan.svg|left|150px|རྒྱལ་དར།]]
 <div class="center"><p style="font-size:1.56em"><b>རྫོང་ཁའི་ཝི་ཀི་རིག་མཛོད་ལུ་བྱོན་པ་ལེགས་སོ།</b></p>མི་རྣམས་ཀུན་གྱིས་རྩོམ་བྲིས་གནང་བཏུབ་པའི་ རིག་མཛོད་ཆེན་པོ།</div>
 |}
-
 {|
 |<inputbox>
  type=create
@@ -16,18 +14,68 @@
  default=
 </inputbox>
 
+<!-- catagories -->
 
 {|
-| width="100%" valign="middle" |
-{| width="100%" length="100%" border="0" cellspacing="0" cellpadding="5"
-| width="10%" |[[File:Sciences de la terre.svg|centre|40x40px]]
-| width="90%" style="font-size: 95%; " |'''འབྲུག་རྒྱལ་ཁབ།'''
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Wikimedia-logo-circle.svg|42px|middle]]</div> འབྲུག། </div>
 [[འབྲུག་ཡུལ་]]&nbsp;- [[སྐུ་འཁོར་གྱི་རྒྱུད་པ།]]&nbsp;- [[འབྲུག་]]&nbsp;- [[ཐིམ་ཕུ་]]&nbsp;- [[རྫོང་ཁ་]]&nbsp; [[དངུལ་ཀྲམ་]]&nbsp;- [[རྒྱལ་པོ་འཇིགས་མེད་ཁེ་གསར་རྣམ་རྒྱལ་དབང་པྱུག་]]&nbsp;- [[འབྲུག་ཙན་དན་]]&nbsp;- [[ཕུན་ཚོགས་གླིང་]]&nbsp;- [[སྤུ་ན་ཁ་]]&nbsp;- [[བསམ་གྲུབ་ལྗོངས་མཁར་]]&nbsp;- [[གསར་སྤང་]]&nbsp;- [[སྤ་རོ་]]&nbsp;- [[བཀྲིས་སྒང་]]&nbsp;- [[དབང་འདུས་ཕོ་བྲང་]]&nbsp;- [[ཏ་ག་རྫོང་]]&nbsp;- [[ཀྲོང་གསར་]]&nbsp;- [[རྟ་མགོ]]&nbsp;-
-|-
-|[[File:Bhutan districts dzongkha.png|centre|40x40px]]
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Bhutan districts dzongkha.png|42px|middle]] <div> འབྲུག་གི་རྫོང་ཁག་ཚུ། </div>
+[[ཀྲོང་གསར་རྫོང་ཁག]]&nbsp;· [[བཀྲིས་སྒང་རྫོང་ཁག]]&nbsp;· [[མགར་ས་རྫོང་ཁག]]&nbsp;· [[ཆུ་ཁ་རྫོང་ཁག]]་&nbsp;· [[ཐིམ་ཕུ་རྫོང་ཁག]]&nbsp;· [[དར་དཀར་ན་རྫོང་ཁག]]&nbsp;· [[པདྨ་དགའ་ཚལ་རྫོང་ཁག]]&nbsp;· [[སྤ་རོ་རྫོང་ཁག]]&nbsp;· [[སྤུ་ན་ཁ་རྫོང་ཁག]]&nbsp;·  [[བུམ་ཐང་རྫོང་ཁག]]&nbsp;· [[དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག]]&nbsp;· [[མོང་སྒར་རྫོང་ཁག]]&nbsp;· [[རྩི་རང་རྫོང་ཁག]]&nbsp;· [[གཞལ་ལམ་སྒང་རྫོང་ཁག]]&nbsp;·  [[གཡང་རྩེ་རྫོང་ཁག]]&nbsp;· [[གསར་སྤང་རྫོང་ཁག]]&nbsp;· [[བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག]]&nbsp;· [[བསམ་རྩེ་རྫོང་ཁག]]&nbsp;· [[ཧཱ་རྫོང་ཁག]]&nbsp;· [[ལྷུན་རྩེ་རྫོང་ཁག]]&nbsp;
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Nuvola_apps_bookcase.png|42px|middle]] <div> སྐད་རིགས། </div>
+[[ཨིང་ལིཤ]]&nbsp;- [[བོད་སྐད།]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད།]]་&nbsp;- [[རྒྱ་སྐད]]&nbsp;- [[ཧྥུ་རན་སིའི་སྐད་]]&nbsp;-[[ལྷོ་ཀོ་རི་ཡའི་སྐད་]]&nbsp;-[[གསེར་ལྡན་རྒྱལ་ཁབ་ཀྱི་སྐད]]&nbsp;-
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Dharma_Wheel.svg|42px|middle]] <div> ཆོས། </div>
+[[སངས་རྒྱས་ཀྱི་བསྟན་པ]]།<!--Buddhism-->&nbsp;· [[བཀའ་བརྒྱུད་པ།]]&nbsp;·་[[འབྲུག་པ་བཀའ་བརྒྱུད།|	འབྲུག་པ་བཀའ་བརྒྱུད་པ།]]&nbsp;· [[སྔ་འགྱུར་རྙིང་མ་བ།]]&nbsp;· [[ས་སྐྱ་པ]]&nbsp;·  
+[[མུ་སྟེགས་པ་ཆོས་ལུགས]]&nbsp;·  [[ཧིན་རྡུ་ཆོས་ལུགས།]]&nbsp;· <!--Hinduism-->&nbsp;· [[རྒྱལ་བ་པ།]]<!--Jainism-->&nbsp;· [[ཁྱབ་འཇུག་པ་ཆོས་ལུགས]] <!--Vaishnava-->&nbsp;· [[དབང་ཕྱུག་]] <!--Śavite--> [[ཡེ་ཤུའི་ཆོས་ལུགས]]<!--Christianity-->&nbsp;- [[ཁ་ཆེའི་ཆོས་ལུགས]]<!--Islam-->&nbsp;· [[ཆད་ལྟའི་རིང་ལུགས]]<!--Atheism-->&nbsp;·
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Bhutan districts dzongkha.png|42px|middle]] <div> འབྲུག་གི་རྫོང་གཞི།</div>
+[[དར་དཀར་བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Darkar Trashi Yangtse Dzong-->&nbsp; [[འབྲུག་རྒྱལ་རྫོང་]]།<!--Drukgyal Dzong-->&nbsp; [[ཧཱ་ དབང་ཕྱུག་ལྷོ་རྫོང་]]།<!--Haa Wangchuck Lo Dzong-->&nbsp; [[ལྷུན་སྒྲུབ་ རིན་ཆེན་རྩེ་ རྫོང་]]།<!--Lhundrup Rinchentse Dzong-->&nbsp; [[སྤུ་ན་ཁ་རྫོང་]]།<!--Punakha Dzong-->&nbsp; [[སེངྒེ་རྫོང་]]།<!--Singye Dzong-->&nbsp; [[བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Trashi Yangtse Dzong-->&nbsp; [[བཀྲ་ཤིས་སྒང་རྫོང་]]།<!--Trashigang Dzong-->&nbsp; [[དབང་འདུས་ཕོ་བྲང་རྫོང་]]།<!--Wangdue Phodrang Dzong-->&nbsp; [[ཞོང་གར་རྫོང་]]།<!--Zhongar Dzong-->&nbsp; [[རྡོ་གར་རྡོབ་རྗི་རྫོང་]]།<!--Dogar Dobji Dzong-->&nbsp; [[མགར་ས་ བཀྲ་ཤིས་མཐོང་སྨོན་རྫོང་]]།<!--Gasa Trashi Thongmoen Dzong-->&nbsp; [[བྱ་དཀར་གཡུལ་རྒྱལ་རྫོང་]]།<!--Jakar Yugyel Dzong-->&nbsp; [[སྤ་རོ་ རིན་སྤུང་རྫོང་]]།<!--Paro Rinpung Dzong-->&nbsp; [[སེམས་རྟོགས་ཁ་རྫོང་]]།<!--Simtokha Dzong-->&nbsp;  [[ལྟ་རྫོང་]]།<!--Ta Dzong-->&nbsp; [[བཀྲ་ཤིས་ཆོས་རྫོང་]]།<!--Trashichho Dzong-->&nbsp; [[ཀྲོང་གསར་རྫོང་]]།<!--Trongsa Dzong-->&nbsp; [[ཞལམ་སྒང་ བདེ་ཆེན་གཡང་རྩེ་རྫོང་]]།<!--Zhemgang Dechen Yangtse Dzong-->&nbsp;
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Map of Asia.svg|42px|middle]] <div> ཨེ་ཤི་ཡའི་རྒྱལ་ཁབ་ཚུ། </div>
+[[འཇར་པན།]]&nbsp;- [[རྒྱ་མི།]]&nbsp;- [[སོག་པོ།]]&nbsp;- [[ཏའི་ཝན།]]&nbsp;- [[ཀམ་བོ་ཌི་ཡ།]]&nbsp;- [[མེ་མར།]]&nbsp;- [[ཐཱའི་ལེནཌ།]]&nbsp;- [[ལྷོ་ཀོ་རི་ཡ།]]&nbsp;- [[བྱང་ཀོ་རི་ཡ།]]&nbsp;- [[རྒྱ་གར།]]&nbsp;- [[ཤྲཱྀ་ལངཀ་]]&nbsp;- [[བལ་ཡུལ།]]&nbsp;- [[བངྒ་ལ་དེཤ།]]&nbsp;- [[མ་ལེ་ཤི་ཡ།]]&nbsp;- [[ཨཕ་ག་ནིསི་ཏཱན།]]&nbsp;- [[ཨི་རཱན།]]&nbsp;- [[ལེ་བཱ་ནཱོན་]]&nbsp;- [[ཨིཛ་རཱེལ་]]&nbsp;- [[ཀུ་ཝེཊ་]]&nbsp;- [[ཡུ་ནའི་ཊེཊ་ཨ་རབ་ཨེ་མི་རེཊསི་]]&nbsp;- [[ཨུཛ་བེ་ཀིསི་ཏཱན་]]&nbsp;- [[ཏ་ཇག་ཀིསི་ཏཱན་]]&nbsp;- [[བཧ་རེན་]]&nbsp;- [[སའུ་དི་ཨེ་ར་སྦི་ཡ་]]&nbsp;-
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Nuvola_apps_display.png|42px|middle]] <div> གློག་རིག། </div>
+[[གློག་རིག]]
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Basketball Clipart.svg|42px|middle]] <div> རྩེད་རིགས།</div>
+[[དྲྭ་རིལ]]&nbsp;- [[ཐང་རིལ]]&nbsp;- [[རྐང་རིལ]]&nbsp;- [[རག་བི]]&nbsp;- [[གཡུག་རིལ]]&nbsp;- [[འདེད་རིལ]]<!-- hockey -->&nbsp;-
+
+
+<div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Kyichu_Lhakhang-060701.JPG|42px|middle]] <div> འབྲུག་གི་དགོན་སྡེ་དང་ལྷ་ཁང།</div>
+[[སྦོ་ཁ་རྫོང་]]།<!--Bokha Dzong-->&nbsp; [[མཆོད་རྟེན་སྐོར་ར]]།<!--Chorten Kora-->&nbsp; [[དགྲ་མེད་རྩེ་ལྷ་ཁང་]]།<!--Drametse Lhakhang-->&nbsp; [[ལྷ་ཁང་དཀར་པོ]]།<!--Lhakhang Karpo-->&nbsp; [[རྟ་ལོག་གསང་སྔགས་ཆོས་གླིང་]]།<!--Talo Sanga Choeling-->&nbsp; [[ཡོངས་ལ་དཔལ་རི་དགོན་པ]]།<!--Yongla Pelri Gonpa-->&nbsp; [[སྒོམ་ཕུ་སྐོར་ར]]།<!--Gomphu Kora-->&nbsp; [[སྐྱིད་ཆུ་ལྷ་ཁང་]]།<!--Kichu Lhakhang-->&nbsp; [[རྟ་མགོ་དགོན་པ]]།<!--Tango Monastery-->&nbsp; [[བུ་ལི་ ཁི་ལམ་ ལྷ་ཁང་]]།<!--Buli Khelem Gonpa-->&nbsp; [[རྡོ་ལུང་ དགོན་པ]]།<!--Dolung Gonpa-->&nbsp; [[བྱམས་པ་ལྷ་ཁང་]]།<!--Jampa Lhakhang-->&nbsp; [[སྟག་ཚང་]]།<!--Taktshang-->&nbsp; [[མཚམས་བྲག་དགོན་པ]]།<!--Tsamdrak Gonpa-->&nbsp; [[སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་]]།<!--Gangtey Sanga Choeling-->&nbsp; [[སྐུ་རྗེས་ ལྷ་ཁང་]]།<!--Kurje Lhakhang-->&nbsp; [[ཕ་ཇོ་ལྡིང་ལྷ་ཁང་]]།<!--Phajoding Monastey-->&nbsp; [[ཁམས་གསུམ་གཡུལ་ལས་རྣམ་རྒྱལ་མཆོད་རྟེན།]]&nbsp; 
+
+
+
+
+
+
+
+
+|[[File:Bhutan districts dzongkha.png||40x40px]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[རྫོང་ཁག]]'''
 [[ཀྲོང་གསར་རྫོང་ཁག]]&nbsp;· [[བཀྲིས་སྒང་རྫོང་ཁག]]&nbsp;· [[མགར་ས་རྫོང་ཁག]]&nbsp;· [[ཆུ་ཁ་རྫོང་ཁག]]་&nbsp;· [[ཐིམ་ཕུ་རྫོང་ཁག]]&nbsp;· [[དར་དཀར་ན་རྫོང་ཁག]]&nbsp;· [[པདྨ་དགའ་ཚལ་རྫོང་ཁག]]&nbsp;· [[སྤ་རོ་རྫོང་ཁག]]&nbsp;· [[སྤུ་ན་ཁ་རྫོང་ཁག]]&nbsp;·  [[བུམ་ཐང་རྫོང་ཁག]]&nbsp;· [[དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག]]&nbsp;· [[མོང་སྒར་རྫོང་ཁག]]&nbsp;· [[རྩི་རང་རྫོང་ཁག]]&nbsp;· [[གཞལ་ལམ་སྒང་རྫོང་ཁག]]&nbsp;·  [[གཡང་རྩེ་རྫོང་ཁག]]&nbsp;· [[གསར་སྤང་རྫོང་ཁག]]&nbsp;· [[བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག]]&nbsp;· [[བསམ་རྩེ་རྫོང་ཁག]]&nbsp;· [[ཧཱ་རྫོང་ཁག]]&nbsp;· [[ལྷུན་རྩེ་རྫོང་ཁག]]&nbsp;·
+
 |-
+
+
 |[[File:Nuvola_apps_bookcase.png|centre|40x40px]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[སྐད་ཡིག]]'''
 [[ཨིང་ལིཤ]]&nbsp;- [[བོད་སྐད།]]་&nbsp;- [[ཨུ་རུ་སུའི་སྐད།]]་&nbsp;- [[རྒྱ་སྐད]]&nbsp;- [[ཧྥུ་རན་སིའི་སྐད་]]&nbsp;-[[ལྷོ་ཀོ་རི་ཡའི་སྐད་]]&nbsp;-[[གསེར་ལྡན་རྒྱལ་ཁབ་ཀྱི་སྐད]]&nbsp;-
@@ -35,10 +83,11 @@
 |[[File:Dharma_Wheel.svg|centre|40x40px]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[ཆོས]]''' <!--Religion-->
 [[སངས་རྒྱས་ཀྱི་བསྟན་པ]]།<!--Buddhism-->&nbsp;· [[བཀའ་བརྒྱུད་པ།]]&nbsp;·་[[འབྲུག་པ་བཀའ་བརྒྱུད།|	འབྲུག་པ་བཀའ་བརྒྱུད་པ།]]&nbsp;· [[སྔ་འགྱུར་རྙིང་མ་བ།]]&nbsp;· [[ས་སྐྱ་པ]]&nbsp;·  
-
 [[མུ་སྟེགས་པ་ཆོས་ལུགས]]&nbsp;·  [[ཧིན་རྡུ་ཆོས་ལུགས།]]&nbsp;· <!--Hinduism-->&nbsp;· [[རྒྱལ་བ་པ།]]<!--Jainism-->&nbsp;· [[ཁྱབ་འཇུག་པ་ཆོས་ལུགས]] <!--Vaishnava-->&nbsp;· [[དབང་ཕྱུག་]] <!--Śavite--> [[ཡེ་ཤུའི་ཆོས་ལུགས]]<!--Christianity-->&nbsp;- [[ཁ་ཆེའི་ཆོས་ལུགས]]<!--Islam-->&nbsp;· [[ཆད་ལྟའི་རིང་ལུགས]]<!--Atheism-->&nbsp;·
 |-
-|[[File:Trashigang_Dzong-rear-2008-01-02.jpg|centre|40x40px]]
+
+
+|[[File:Trashigang_Dzonge:Trashigang_Dzongg_Dzong-rear-2008-01-02.jpg|centre|40x40px]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA;" |'''[[འབྲུག་གི་རྫོང་གཞི]]''' <!--Dzongs of Bhutan-->
 [[དར་དཀར་བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Darkar Trashi Yangtse Dzong-->&nbsp; [[འབྲུག་རྒྱལ་རྫོང་]]།<!--Drukgyal Dzong-->&nbsp; [[ཧཱ་ དབང་ཕྱུག་ལྷོ་རྫོང་]]།<!--Haa Wangchuck Lo Dzong-->&nbsp; [[ལྷུན་སྒྲུབ་ རིན་ཆེན་རྩེ་ རྫོང་]]།<!--Lhundrup Rinchentse Dzong-->&nbsp; [[སྤུ་ན་ཁ་རྫོང་]]།<!--Punakha Dzong-->&nbsp; [[སེངྒེ་རྫོང་]]།<!--Singye Dzong-->&nbsp; [[བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Trashi Yangtse Dzong-->&nbsp; [[བཀྲ་ཤིས་སྒང་རྫོང་]]།<!--Trashigang Dzong-->&nbsp; [[དབང་འདུས་ཕོ་བྲང་རྫོང་]]།<!--Wangdue Phodrang Dzong-->&nbsp; [[ཞོང་གར་རྫོང་]]།<!--Zhongar Dzong-->&nbsp; [[རྡོ་གར་རྡོབ་རྗི་རྫོང་]]།<!--Dogar Dobji Dzong-->&nbsp; [[མགར་ས་ བཀྲ་ཤིས་མཐོང་སྨོན་རྫོང་]]།<!--Gasa Trashi Thongmoen Dzong-->&nbsp; [[བྱ་དཀར་གཡུལ་རྒྱལ་རྫོང་]]།<!--Jakar Yugyel Dzong-->&nbsp; [[སྤ་རོ་ རིན་སྤུང་རྫོང་]]།<!--Paro Rinpung Dzong-->&nbsp; [[སེམས་རྟོགས་ཁ་རྫོང་]]།<!--Simtokha Dzong-->&nbsp;  [[ལྟ་རྫོང་]]།<!--Ta Dzong-->&nbsp; [[བཀྲ་ཤིས་ཆོས་རྫོང་]]།<!--Trashichho Dzong-->&nbsp; [[ཀྲོང་གསར་རྫོང་]]།<!--Trongsa Dzong-->&nbsp; [[ཞལམ་སྒང་ བདེ་ཆེན་གཡང་རྩེ་རྫོང་]]།<!--Zhemgang Dechen Yangtse Dzong-->&nbsp;
 |-
@@ -46,7 +95,9 @@
 |style="font-size: 95%; border-top: 1px dashed #AAAAAA;"|'''[[ཨེ་ཤི་ཡ།]]'''
 [[འཇར་པན།]]&nbsp;- [[རྒྱ་མི།]]&nbsp;- [[སོག་པོ།]]&nbsp;- [[ཏའི་ཝན།]]&nbsp;- [[ཀམ་བོ་ཌི་ཡ།]]&nbsp;- [[མེ་མར།]]&nbsp;- [[ཐཱའི་ལེནཌ།]]&nbsp;- [[ལྷོ་ཀོ་རི་ཡ།]]&nbsp;- [[བྱང་ཀོ་རི་ཡ།]]&nbsp;- [[རྒྱ་གར།]]&nbsp;- [[ཤྲཱྀ་ལངཀ་]]&nbsp;- [[བལ་ཡུལ།]]&nbsp;- [[བངྒ་ལ་དེཤ།]]&nbsp;- [[མ་ལེ་ཤི་ཡ།]]&nbsp;- [[ཨཕ་ག་ནིསི་ཏཱན།]]&nbsp;- [[ཨི་རཱན།]]&nbsp;- [[ལེ་བཱ་ནཱོན་]]&nbsp;- [[ཨིཛ་རཱེལ་]]&nbsp;- [[ཀུ་ཝེཊ་]]&nbsp;- [[ཡུ་ནའི་ཊེཊ་ཨ་རབ་ཨེ་མི་རེཊསི་]]&nbsp;- [[ཨུཛ་བེ་ཀིསི་ཏཱན་]]&nbsp;- [[ཏ་ཇག་ཀིསི་ཏཱན་]]&nbsp;- [[བཧ་རེན་]]&nbsp;- [[སའུ་དི་ཨེ་ར་སྦི་ཡ་]]&nbsp;-
 |-
-|[[File:Nuvola_apps_display.png|centre|40x40px]]
+|
+
+[[File:Nuvola_apps_display.png|centre|40x40px]]
 | style="font-size: 95%; border-top: 1px dashed #AAAAAA; " |'''[[གློག་རིག]]''' <!--Others-->
 |-
 |[[File:Basketball Clipart.svg|centre|40x40px]]
@@ -58,27 +109,11 @@
 [[སྦོ་ཁ་རྫོང་]]།<!--Bokha Dzong-->&nbsp; [[མཆོད་རྟེན་སྐོར་ར]]།<!--Chorten Kora-->&nbsp; [[དགྲ་མེད་རྩེ་ལྷ་ཁང་]]།<!--Drametse Lhakhang-->&nbsp; [[ལྷ་ཁང་དཀར་པོ]]།<!--Lhakhang Karpo-->&nbsp; [[རྟ་ལོག་གསང་སྔགས་ཆོས་གླིང་]]།<!--Talo Sanga Choeling-->&nbsp; [[ཡོངས་ལ་དཔལ་རི་དགོན་པ]]།<!--Yongla Pelri Gonpa-->&nbsp; [[སྒོམ་ཕུ་སྐོར་ར]]།<!--Gomphu Kora-->&nbsp; [[སྐྱིད་ཆུ་ལྷ་ཁང་]]།<!--Kichu Lhakhang-->&nbsp; [[རྟ་མགོ་དགོན་པ]]།<!--Tango Monastery-->&nbsp; [[བུ་ལི་ ཁི་ལམ་ ལྷ་ཁང་]]།<!--Buli Khelem Gonpa-->&nbsp; [[རྡོ་ལུང་ དགོན་པ]]།<!--Dolung Gonpa-->&nbsp; [[བྱམས་པ་ལྷ་ཁང་]]།<!--Jampa Lhakhang-->&nbsp; [[སྟག་ཚང་]]།<!--Taktshang-->&nbsp; [[མཚམས་བྲག་དགོན་པ]]།<!--Tsamdrak Gonpa-->&nbsp; [[སྒང་སྟེང་གསང་སྔགས་ཆོས་གླིང་]]།<!--Gangtey Sanga Choeling-->&nbsp; [[སྐུ་རྗེས་ ལྷ་ཁང་]]།<!--Kurje Lhakhang-->&nbsp; [[ཕ་ཇོ་ལྡིང་ལྷ་ཁང་]]།<!--Phajoding Monastey-->&nbsp; [[ཁམས་གསུམ་གཡུལ་ལས་རྣམ་རྒྱལ་མཆོད་རྟེན།]]&nbsp; 
 |}
 |}
-
-
-
-
 <div id="mp_sisterProjects" class="mp_outerbox" style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
 <div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Wikimedia-logo-circle.svg|42px|middle|링크=]]</div>ཝི་ཀིའི་ལས་འགུལ་གཞན།</div>
 {{སྐད་རིགས་གཞན།}}
-
 <div class="wikipedia-ko sister main-box" style="clear: both; display:inline-block; width: 100%; margin-top: 20px;">
 	<div class="wikipedia-ko sister-header" style="width: 100%; font-size: 1.1em; overflow: auto;">
 		<span style="display: inline-block; height: 2rem; line-height: 2rem; padding-left: .5rem; padding-right: 1rem; margin: .6rem 0; border-radius: 0 1rem 1rem 0; background-color: #EBEBEB;">'''སྐད་རིགས་གཞན།'''</span></div>
 	<div style="clear: both; margin: 0 20px;">
 {{གཞན།. ཁ་སྐད། ཁ། སྐད་ཡིག}}</div>
-
-
-
-{| id="mp-bottom" | 
-<!---categories -->
-
-! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle; font-weight:normal; width:100%;" | <h3 class="mp"> [[चित्र:Nuvola apps bookcase.png|25px|alt=|link=]] ज्ञानकोश</h3>
-! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px|alt=|link=]]</div>
-|-
-| colspan=2 style="padding:15px 5px" | <div style="text-align:left;">{{मुखपृष्श्कोष}</div>
-|}
