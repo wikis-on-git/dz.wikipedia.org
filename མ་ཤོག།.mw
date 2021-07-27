@@ -43,7 +43,7 @@
 
 {|
 <div style="border:1px solid #a7d7f9; margin: 0.5em 0 0.5em; vertical-align:top; padding: 1em; -moz-border-radius: 0.8em; -webkit-border-radius: 0.8em; border-radius: 0.8em;">
-<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; overflow: visible; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Bhutan districts dzongkha.png|42px|middle]] <div> འབྲུག་གི་རྫོང་གཞི།</div>
+<div style="background-color:#bbddff; margin-bottom: 0.7em; padding: 0.2em 0.5em; font-size: 1.2em; line-height: 1.5em; font-weight: bold; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; border-radius: 0.5em;"><div style="float: left; margin: -8px 8px -8px 0px;">[[File:Bhutan districts dzongkha.png|42px|middle]] <div> འབྲུག་གི་རྫོང་གཞི།</div>
 [[དར་དཀར་བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Darkar Trashi Yangtse Dzong-->&nbsp; [[འབྲུག་རྒྱལ་རྫོང་]]།<!--Drukgyal Dzong-->&nbsp; [[ཧཱ་ དབང་ཕྱུག་ལྷོ་རྫོང་]]།<!--Haa Wangchuck Lo Dzong-->&nbsp; [[ལྷུན་སྒྲུབ་ རིན་ཆེན་རྩེ་ རྫོང་]]།<!--Lhundrup Rinchentse Dzong-->&nbsp; [[སྤུ་ན་ཁ་རྫོང་]]།<!--Punakha Dzong-->&nbsp; [[སེངྒེ་རྫོང་]]།<!--Singye Dzong-->&nbsp; [[བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་]]།<!--Trashi Yangtse Dzong-->&nbsp; [[བཀྲ་ཤིས་སྒང་རྫོང་]]།<!--Trashigang Dzong-->&nbsp; [[དབང་འདུས་ཕོ་བྲང་རྫོང་]]།<!--Wangdue Phodrang Dzong-->&nbsp; [[ཞོང་གར་རྫོང་]]།<!--Zhongar Dzong-->&nbsp; [[རྡོ་གར་རྡོབ་རྗི་རྫོང་]]།<!--Dogar Dobji Dzong-->&nbsp; [[མགར་ས་ བཀྲ་ཤིས་མཐོང་སྨོན་རྫོང་]]།<!--Gasa Trashi Thongmoen Dzong-->&nbsp; [[བྱ་དཀར་གཡུལ་རྒྱལ་རྫོང་]]།<!--Jakar Yugyel Dzong-->&nbsp; [[སྤ་རོ་ རིན་སྤུང་རྫོང་]]།<!--Paro Rinpung Dzong-->&nbsp; [[སེམས་རྟོགས་ཁ་རྫོང་]]།<!--Simtokha Dzong-->&nbsp;  [[ལྟ་རྫོང་]]།<!--Ta Dzong-->&nbsp; [[བཀྲ་ཤིས་ཆོས་རྫོང་]]།<!--Trashichho Dzong-->&nbsp; [[ཀྲོང་གསར་རྫོང་]]།<!--Trongsa Dzong-->&nbsp; [[ཞལམ་སྒང་ བདེ་ཆེན་གཡང་རྩེ་རྫོང་]]།<!--Zhemgang Dechen Yangtse Dzong-->&nbsp;
 |}
 
@@ -81,3 +81,10 @@
 	<div style="clear: both; margin: 0 20px;">
 {{གཞན།. ཁ་སྐད། ཁ། སྐད་ཡིག}}</div>
 |}
+
+<div class="main-box main-top" style="flex: 10;">
+	<div class="main-top-left">
+		<span style="font-size: 1.8rem; margin-top: 0; margin-bottom: .1em;">[[위키백과:소개|<span style="color: black; font-weight: bold;">위키백과</span>]]</span>
+		<p style="font-size: 1rem; margin-top: .1em; margin-bottom: 1em;">우리 모두가 만들어가는 자유 백과사전<span class="nomobile"><br />문서 [[위키백과:통계|<span style="color: #246ad3;">'''{{NUMBEROFARTICLES}}'''</span>]]개와 최근 기여자 [[위키백과:통계|<span style="color: #246ad3;">'''{{NUMBEROFACTIVEUSERS}}'''</span>]]명</span></p>
+        </div>
+</div>
